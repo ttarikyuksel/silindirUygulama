@@ -1,0 +1,10 @@
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\bin\Debug\silindirFormuller.exe.config
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\bin\Debug\silindirFormuller.exe
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\bin\Debug\silindirFormuller.pdb
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\obj\Debug\silindirFormuller.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\obj\Debug\silindirFormuller.Form1.resources
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\obj\Debug\silindirFormuller.Properties.Resources.resources
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\obj\Debug\silindirFormuller.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\obj\Debug\silindirFormuller.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\obj\Debug\silindirFormuller.exe
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\silindirFormuller\silindirFormuller\obj\Debug\silindirFormuller.pdb
